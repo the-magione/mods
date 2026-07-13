@@ -1,0 +1,14 @@
+<configs>
+  <append xpath="/blocks/block[@name='mineCandyTin']">
+    <property name="CanPickup" value="true" param1="mineCandyTin"/>
+  </append>
+  <append xpath="/blocks/block[@name='mineCookingPot']">
+    <property name="CanPickup" value="true" param1="mineCookingPot" />
+  </append>
+  <append xpath="/blocks/block[@name='mineHubcap']">
+    <property name="CanPickup" value="true" param1="mineHubcap" />
+  </append>
+  <append xpath="/blocks/block[@name='mineAirFilter']">
+    <property name="CanPickup" value="true" param1="mineAirFilter" />
+  </append>
+</configs>
