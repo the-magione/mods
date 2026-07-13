@@ -1,6 +1,9 @@
 # A repository for various game mods created by me
 [My Nexus Mods profile](https://www.nexusmods.com/profile/magione)
 
-7 DAYS TO DIE
+# 7 DAYS TO DIE
 Installation:
-1. Download desired mod
+1. Check if mod version is compatible with game version (it is possible mods will work on a different version).
+2. Download desired mod files.
+3. Put the files into a folder.
+4. Put the folder into Disc:\SteamLibrary\steamapps\common\7 Days To Die\Mods folder.
