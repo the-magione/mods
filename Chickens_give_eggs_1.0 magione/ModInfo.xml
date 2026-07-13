@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xml>
-	<Name value="Chickens_Give_Eggs"/>
-	<DisplayName value="Chickens_Give_Eggs" />
-	<Version value="1.0"/>
-	<Description value="when stabbing at the chicken after killing it, it always gives at least one egg"/>
-	<Author value="magione"/>
-	<Website value="https://next.nexusmods.com/profile/magione/mods"/>
-</xml>
