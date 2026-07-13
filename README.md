@@ -7,3 +7,5 @@ Installation:
 2. Download desired mod files.
 3. Put the files into a folder.
 4. Put the folder into Disc:\SteamLibrary\steamapps\common\7 Days To Die\Mods folder.
+
+I created my mods for version 1.0, but tested them on 2.5 and 3.0 and they worked the same.
